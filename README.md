@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
+- [visualisation](#visualisation)
 - [Implementation](#implementation)
 - [References](#references)
 
@@ -107,6 +108,12 @@ To check that everything’s working as expected, just run:
 
 The test suite includes basic checks and a few edge cases to make sure things don't break. We've also verified performance visually on  moon, and circular and imbalenced data sets.
 
+## visualisation
+All the visualisation has been placed in visualisation.ipynb file, here we have evavluated the model for boundry, loss and performance metrics, additionally we have added multiple plots to compare with existing classifiers.
+
+```
+visualisation\visualisation.ipynb
+```
 
 ## Implementation
 
